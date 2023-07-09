@@ -1,8 +1,87 @@
+#topnavbar {
+  background: #bd86d293;
+  width: 100%;
+  padding: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffffff;
+}
+
+#topnavbar .dropdown-menu a:hover {
+  color: #8a7c93;
+}
+#topnavbar .nav-item {
+  margin: auto 8px;
+  font-size: 20px;
+  color: #ffffff;
+}
+#topnavbar a {
+  padding-left: 14px;
+  padding-right: 14px;
+}
+#topnavbar .dropdown-menu {
+  background: #8a7c93;
+}
+a.navbar-brand {
+  color: #8a7c93;
+}
+
+.jumbotron-fluid {
+  background-color: #8a7c93;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 90%;
+  justify-items: center;
+  align-items: center;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
+}
+
+img {
+  padding: 15px;
+  margin: 15px;
+}
+
 .item {
-  width: 35%;
-  height: 100px;
+  width: 23%;
+  height: 100%;
+  background-color: red;
 }
 
 .item-one {
   width: 80%;
+  height: 80%;
+  background-color: green;
+  justify-items: center;
+}
+
+.item-two {
+  width: 100%;
+  height: 80%;
+  background-color: green;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-three {
+  width: 80%;
+  height: 60%;
+  background-color: rgb(0, 105, 128);
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.item-four {
+  width: 100%;
+  height: 60%;
+  background-color: rgb(128, 0, 53);
+  justify-items: center;
+}
+
+.card {
+  justify-content: center;
+  background-color: #fadadd;
+  width: 37%;
 }
