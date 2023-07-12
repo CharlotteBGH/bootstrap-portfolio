@@ -4,7 +4,8 @@ This is a Bootstrap recreation of my original portfolio website, which was creat
 
 View the deployed page here: https://charlottebgh.github.io/bootstrap-portfolio/
 
-![image](https://github.com/CharlotteBGH/charlotte-brazier-portfolio/assets/99615123/2deb5dca-5c7d-49a0-9ca2-8ba54c9ca990)
+![image](https://github.com/CharlotteBGH/bootstrap-portfolio/assets/99615123/7e1e536c-7e67-4dd2-b6b7-8686f0375554)
+
 ## Usage
 Click or tap on the About/Contact/Work links in the navigation bar to scroll to the corresponding section.  
 To see my deployed applications, click or tap on the 'Explore' buttons on the Bootstrap cards. 
