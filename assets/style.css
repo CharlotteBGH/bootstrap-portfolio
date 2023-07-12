@@ -64,6 +64,7 @@ img {
   padding: 10px;
   background-color: #8a7c93;
   text-align: left;
+  overflow: auto;
 }
 
 .item-one {
@@ -73,6 +74,7 @@ img {
   justify-content: space-evenly;
   display: flex;
   flex-wrap: wrap;
+ overflow: auto;
 }
 
 .card {
@@ -83,6 +85,7 @@ img {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
+  overflow: auto;
 }
 
 p {
